@@ -4,7 +4,7 @@
 </div>
 
 - Express
-- Mongodb
+- Docker( Mongodb )
 - Insomnia
 
 ## Rode na sua maquina
