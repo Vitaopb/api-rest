@@ -3,10 +3,11 @@
 <h2>Cadastro de Usuários</h2>
 </div>
 
-## Antes de tudo instale:
+## Foi utilizado:
 - [Docker](https://www.docker.com/products/docker-desktop)
 - [MogoDB](https://www.mongodb.com/try/download/community)
 - [Insomnia](https://insomnia.rest/download)
+- Utilizei o Typescript nessa API
 
 ## Rode na sua maquina
 - Certifique-se de ter:
