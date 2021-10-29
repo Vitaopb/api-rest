@@ -2,9 +2,11 @@ import express from 'express';
 import { connectMongodb } from './config/mogoose.config'
 import { UserModel } from './models/users'
 import { routes } from './routes/user.routes';
+import cors from 'cors'
 
 
 const app = express()
+app.use(cors({ origin: '*' }))
 app.use(express.json())
 
 interface User {
